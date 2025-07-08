@@ -84,4 +84,3 @@ void displayProperties(double perimeter, double area) {
   std::cout << "Perimeter: " << perimeter << std::endl;
   std::cout << "Area: " << area << std::endl;
 }
-
